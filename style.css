@@ -1,0 +1,283 @@
+.d1
+{
+    border: 4px solid black;
+    border-radius: 30px;
+    height: 600px;
+    width: 350px;
+    position: fixed;
+    top: 50px;
+    left: 50px;
+    
+    
+}
+.d2
+{
+    border: 2px solid black;
+    border-radius: 30px 30px 0px 0px ;
+    background-color: ;
+
+    height: 70px;
+    width: 350px;
+    position: fixed;
+    display: ;
+    z-index: 1;
+    top: 50px;
+    left: 52px;
+}
+#i1
+{
+    height: 50px;
+    margin: 55px 0px 0px 55px;
+}
+#i2
+{
+    font-size: larger;
+    font-weight: 700;
+    position: relative;
+    top: -58px;
+    left: 125px;
+}
+#i3
+{
+    height: 40px;
+    position: fixed ;
+    margin: -105px 0px 0px 270px;
+}
+#i4
+{
+    height: 27px;
+    position: fixed;
+    margin: -97px 0px 0px 325px;
+    
+}
+#i5
+{
+    height: 30px;
+    position: fixed;
+    margin: -100px 0px 0px 360px;
+    
+}
+.d4
+{
+    border: 2px solid black;
+    border-radius: 30px 30px 30px 30px ;
+    background-color:;
+    height: 50px;
+    width: 300px;
+    position: fixed;
+    top: 604px;
+    left: 52px;
+}
+#i6
+{
+    height: 45px;
+    position: relative;
+    top: -2px;
+    left: 225px;
+}
+#i7
+{
+    position:relative ;
+    z-index: 1;
+}
+
+.x1
+{
+    border: 3px solid black;
+    height: 479px;
+    width: 350px;
+    /* background-image: url(./assests/images/bg.jpg); */
+    background-color:antiquewhite;
+    overflow: scroll;
+    position: relative;
+    top: 68px;
+    left: -2px;
+    border-bottom-color: rgb(255, 255, 255);
+    
+}
+::-webkit-scrollbar 
+{
+    display: none;
+}
+#x2
+{
+   height: 35px;
+   position: relative; 
+   top: -3px;
+   left: 45px;
+   opacity: 0.5;
+}
+#x3
+{
+    height: 35px;
+    position: relative;
+    top: -3px;
+    left: -37px;
+    opacity: 0.5;
+
+}
+#x4
+{
+    height: 35px;
+    position: relative;
+    top: -43px;
+    left: 10px;
+    opacity: 0.5; 
+}
+#c1
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 30px;
+    width: 180px;
+    text-align:center;
+    left: 160px;
+    position: relative;
+    top: 0px;
+    background-color:aqua;
+}
+#c2
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    left: 8px;
+    position:relative;
+    top: 0px; 
+    background-color:aquamarine;
+    
+}
+#c4
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 45px;
+    width: 300px;
+    text-align: center ;
+    display: ;
+    left: 40px;
+    position:relative;
+    top: 0px; 
+    background-color:aqua;
+ 
+}
+#c5{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 35px;
+    width:280px;
+    text-align: center;
+    left: 8px;
+    position:relative;
+    top: 0px; 
+    background-color:aquamarine;
+}
+#c6
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 40px;
+    width: 310px;
+    text-align: center ;
+    display: ;
+    left: 30px;
+    position:relative;
+    top: 0px; 
+    background-color:aqua;
+  
+}
+#c7
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 40px;
+    width:310px;
+    text-align: center;
+    left: 8px;
+    position:relative;
+    top: 0px; 
+    background-color:aquamarine;   
+}
+#c8
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 35px;
+    width: 200px;
+    text-align: center ;
+    display: ;
+    left: 140px;
+    position:relative;
+    top: 0px; 
+    background-color:aqua; 
+}
+#b2
+{
+    height: 70px;
+}
+#c9
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 30px;
+    width:70px;
+    text-align: center;
+    left: 8px;
+    position:relative;
+    top: 0px; 
+    background-color:aquamarine;  
+}
+#c10
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 40px;
+    width:200px;
+    text-align: center;
+    
+    left: 7px;
+    position:relative;
+    top: -12px; 
+    background-color:aquamarine;  
+}
+#c11
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 35px;
+    width: 200px;
+    text-align: center ;
+    display: ;
+    left: 140px;
+    position:relative;
+    top: -15px; 
+    background-color:aqua; 
+}
+#c12
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 40px;
+    width:200px;
+    text-align: center;
+    left: 8px;
+    position:relative;
+    top: -20px; 
+    background-color:aquamarine;  
+}
+#c13
+{
+    border: 2px solid black;
+    border-radius: 30px;
+    height: 35px;
+    width: 120px;
+    text-align: center ;
+    display: ;
+    left: 220px;
+    position:relative;
+    top: -20px; 
+    background-color:aqua; 
+} 
+
